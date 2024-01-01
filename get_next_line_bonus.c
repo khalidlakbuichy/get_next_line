@@ -3,20 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: klakbuic <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: khalid <khalid@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/20 08:02:19 by klakbuic          #+#    #+#             */
-/*   Updated: 2023/11/21 10:08:46 by klakbuic         ###   ########.fr       */
+/*   Updated: 2024/01/01 11:13:44 by khalid           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
-#include <fcntl.h>
-#include <stdint.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#define TRUE 1
+#include "get_next_line_bonus.h"
 
 int	ft_lst_clear(t_list **lst)
 {
