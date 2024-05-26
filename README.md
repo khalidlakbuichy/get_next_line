@@ -1,5 +1,4 @@
 # Get Next Line Project
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DxgDSXNOHTIA&psig=AOvVaw3yj_Fy0bLYZkhgvq2t8WBe&ust=1716822572037000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiniM7Mq4YDFQAAAAAdAAAAABBj)
 
 ## Overview
 
